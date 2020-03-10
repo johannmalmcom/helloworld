@@ -9,12 +9,6 @@
             "email": "hej@johannmalm.com"
         }
     ],
-    "require": {
-        "php": ">=7.3.0"
-    },
-    "autoload": {
-        "psr-0": {
-            "HelloWorld\\": "src/"
-        }
-    }
+    "minimum-stability": "dev",
+    "require": {}
 }
