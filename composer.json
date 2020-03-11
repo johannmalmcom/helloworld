@@ -3,6 +3,7 @@
     "description": "My first composer project",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Johann Malm",
